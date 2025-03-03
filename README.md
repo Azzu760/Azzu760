@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Kasaudhan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=0&uuid=ab76c9ab-7d7d-4d92-a207-bfc339a5c008&query=Coding+Gif" >
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1741019445~exp=1741023045~hmac=578764c3eb340a1cbf67d89d1af9f1d23b8f96b5672e3f03700b32dbfd183ef8&w=1380" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzu760&label=Profile%20views&color=0e75b6&style=flat" alt="azzu760" /> </p>
 
