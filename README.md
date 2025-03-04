@@ -3,7 +3,7 @@
 ### A passionate full-stack developer from Nepal.
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="800">
 </div>
 
 <p align="center">
