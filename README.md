@@ -42,7 +42,7 @@
 
 <p align="left"><strong>Frameworks & Libraries:</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,reactnative,nextjs&size=100" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs&size=100" alt="Frameworks & Libraries" />
 </p>
 
 <p align="left"><strong>Databases:</strong></p>
@@ -52,7 +52,7 @@
 
 <p align="left"><strong>Machine Learning:</strong></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,tensorflow,pytorch,opencv&size=100" alt="Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&size=100" alt="Machine Learning" />
 </p>
 
 <p align="left"><strong>Styling:</strong></p>
@@ -64,8 +64,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,aws,gcp,flask,seaborn&size=100" alt="Platforms & Cloud" />
 </p>
----
-⭐️ Feel free to connect!
 
 ## 📊 GitHub Stats
 <p align="left">
