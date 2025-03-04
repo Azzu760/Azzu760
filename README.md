@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,nodejs,express,react,reactnative,nextjs,mongodb,postgres,mysql,firebase,sklearn,numpy,pandas,tailwind,bootstrap,androidstudio,aws,gcp,flask,seaborn&perline=6&size=50" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,nodejs,express,react,reactnative,nextjs,mongodb,postgres,mysql,firebase,sklearn,numpy,pandas,tailwind,bootstrap,androidstudio,aws,gcp,flask,seaborn&perline=6&size=100" alt="Tech Stack" />
 </div>
 ---
 ⭐️ Feel free to connect!
