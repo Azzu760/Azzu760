@@ -26,7 +26,7 @@
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ajay-kumar-kasaudhan-baniya-968826236" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" />
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/0nly.azzu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="60" width="60" />
   </a>
@@ -35,36 +35,9 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left"><strong>Languages:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" alt="Languages" />
-</p>
-
-<p align="left"><strong>Frameworks & Libraries:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,reactnative,nextjs" alt="Frameworks & Libraries" />
-</p>
-
-<p align="left"><strong>Databases:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases" />
-</p>
-
-<p align="left"><strong>Machine Learning:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" alt="Machine Learning" />
-</p>
-
-<p align="left"><strong>Styling:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling" />
-</p>
-
-<p align="left"><strong>Platforms & Cloud:</strong></p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,aws,gcp,flask,seaborn" alt="Platforms & Cloud" />
-</p>
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,nodejs,express,react,reactnative,nextjs,mongodb,postgres,mysql,firebase,sklearn,numpy,pandas,tailwind,bootstrap,androidstudio,aws,gcp,flask,seaborn&perline=6&size=50" alt="Tech Stack" />
+</div>
 ---
 ⭐️ Feel free to connect!
 
