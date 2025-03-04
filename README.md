@@ -35,9 +35,35 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,nodejs,express,react,reactnative,nextjs,mongodb,postgres,mysql,firebase,sklearn,numpy,pandas,tailwind,bootstrap,androidstudio,aws,gcp,flask,seaborn&perline=6&size=100" alt="Tech Stack" />
-</div>
+<p align="left"><strong>Languages:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript&size=100" alt="Languages" />
+</p>
+
+<p align="left"><strong>Frameworks & Libraries:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,reactnative,nextjs&size=100" alt="Frameworks & Libraries" />
+</p>
+
+<p align="left"><strong>Databases:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&size=100" alt="Databases" />
+</p>
+
+<p align="left"><strong>Machine Learning:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,tensorflow,pytorch,opencv&size=100" alt="Machine Learning" />
+</p>
+
+<p align="left"><strong>Styling:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&size=100" alt="Styling" />
+</p>
+
+<p align="left"><strong>Platforms & Cloud:</strong></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,aws,gcp,flask,seaborn&size=100" alt="Platforms & Cloud" />
+</p>
 ---
 ⭐️ Feel free to connect!
 
