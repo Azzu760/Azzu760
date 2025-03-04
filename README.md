@@ -20,58 +20,58 @@
 - ajaykumarkasaudhan760@gmail.com
 
 ## 🌍 Connect
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/ajay-kumar-kasaudhan-baniya-968826236" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a> &nbsp;
   <a href="https://fb.com/a.j.a.y.587263" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="24" width="24" />
-  </a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a> &nbsp;
   <a href="https://instagram.com/0nly.azzu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="24" width="24" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <p><strong>Languages:</strong></p>
+<p align="left"><strong>Languages:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript" alt="Languages" />
-</div>
+</p>
 
-<div align="center">
-  <p><strong>Frameworks & Libraries:</strong></p>
+<p align="left"><strong>Frameworks & Libraries:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,reactnative,nextjs" alt="Frameworks & Libraries" />
-</div>
+</p>
 
-<div align="center">
-  <p><strong>Databases:</strong></p>
+<p align="left"><strong>Databases:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases" />
-</div>
+</p>
 
-<div align="center">
-  <p><strong>Machine Learning:</strong></p>
+<p align="left"><strong>Machine Learning:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" alt="Machine Learning" />
-</div>
+</p>
 
-<div align="center">
-  <p><strong>Styling:</strong></p>
+<p align="left"><strong>Styling:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Styling" />
-</div>
+</p>
 
-<div align="center">
-  <p><strong>Platforms & Cloud:</strong></p>
+<p align="left"><strong>Platforms & Cloud:</strong></p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,aws,gcp,flask,seaborn" alt="Platforms & Cloud" />
-</div>
+</p>
 
 ---
 ⭐️ Feel free to connect!
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=azzu760&show_icons=true&theme=radical" alt="Ajay's GitHub Stats"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzu760&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
