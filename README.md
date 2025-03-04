@@ -31,7 +31,7 @@
   </p>
 </div>
 
-<div align="center" background-color="gray">
+<div align="center">
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
